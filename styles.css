@@ -1,0 +1,32 @@
+h1
+{
+    background-color: black;
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+span
+{
+    color: white;
+}
+
+h2
+{
+    background-color: rgb(104,52,156);
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: monospace;
+    padding: 10px;
+}
+
+h3
+{
+    background-color: #a0c4fc;
+    color: blue;
+    text-decoration: underline;
+    text-align: end;
+    font-family: serif;
+    padding: 10px;
+}
